@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![alt text](https://github.com/AngelCen14/AngelCen14/blob/main/image.jpg?raw=true)
 <!--
 **AngelCen14/AngelCen14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
