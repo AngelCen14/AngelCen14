@@ -34,12 +34,6 @@ Videojuego 3D de miedo desarrollado con el motor **Godot 4**, creado como proyec
 
 [Todos mis proyectos](https://github.com/AngelCen14?tab=repositories)
 ---
-# 📊 Estadísticas de GitHub:
-![](https://github-readme-stats.vercel.app/api?username=AngelCen14&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AngelCen14&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelCen14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=AngelCen14&icon=2&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
