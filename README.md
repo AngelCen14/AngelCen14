@@ -1,6 +1,5 @@
 # Hola, soy Ángel 👋
 
----
 # 💫 Sobre mi:
 Desarrollador de software graduado en la FP Superior de Desarrollo de Aplicaciones Multiplataforma.<br>Soy una persona con predisposición de aprender, con ganas de trabajar y con facilidad de trabajar en equipo. <br>Soy un apasionado de la tecnología y siempre estoy buscando mejorar y actualizar mis conocimientos para estar al día con las últimas tendencias tecnológicas.
 
