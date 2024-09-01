@@ -23,7 +23,7 @@ Videojuego para android desarrollado en **Android Studio** creado como trabajo d
     * Bases de datos (Realtime y Firestore)
     * Sistema de Notificaciones
 * Almacenamiento local con **SQLite** mediante **Room Persistence Library**
-* Diseño de interfaces de usuario en XML y sistema de **navegacion entre interfaces
+* Diseño de interfaces de usuario en XML y sistema de **navegacion entre interfaces**
 
 ## [Only4](https://github.com/AngelCen14/Only4)
 Videojuego 3D de miedo desarrollado con el motor **Godot 4**, creado como proyecto para la asignatura de Programación multimedia y dispositivos móviles de 2º de DAM.
