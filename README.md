@@ -13,7 +13,7 @@ Desarrollador de software graduado en la FP Superior de Desarrollo de Aplicacion
 # Proyectos destacados
 ## [TFG](https://github.com/JohnWormwood/TFG)
 
-Videojuego para android desarrollado en **Android Studio** creado como trabajo de fin de grado de la FP Superior de Desarrollo de Apliaciones Multiplataforma, consiste en la gestión de una aldea y sus diferentes recursos, cuenta con sistema multijugador online de ataques entre usuarios al estilo del videojuego "Clash of Clans". Desarrollado en colaboración con ## [Juan Ajenjo]([https://github.com/AngelCen14/Only4](https://github.com/JohnWormwood)).
+Videojuego para android desarrollado en **Android Studio** creado como trabajo de fin de grado de la FP Superior de Desarrollo de Apliaciones Multiplataforma, consiste en la gestión de una aldea y sus diferentes recursos, cuenta con sistema multijugador online de ataques entre usuarios al estilo del videojuego "Clash of Clans". Desarrollado en colaboración con [Juan Ajenjo]([https://github.com/AngelCen14/Only4](https://github.com/JohnWormwood)).
 
 * Programado en **Java**
     * Uso de librerias mediante **Gradle** (Jackson, Lombok...)
