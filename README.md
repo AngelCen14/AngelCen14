@@ -1,7 +1,9 @@
 # Hola, soy Ángel 👋
 
 # 💫 Sobre mi:
-Desarrollador de software graduado en la FP Superior de Desarrollo de Aplicaciones Multiplataforma. Soy una persona con predisposición de aprender, con ganas de trabajar y con facilidad de trabajar en equipo, me apasiona la tecnología y siempre estoy buscando mejorar y actualizar mis conocimientos para estar al día con las últimas tendencias tecnológicas.
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, soy una persona con ganas de aprender, ganas de trabajar y me gusta trabajar en equipo. Mi objetivo es aportar valor y crecer profesionalmente, siempre buscando mejorar y actualizar mis conocimientos para estar al día con las últimas tendencias tecnológicas. 
+
+Tengo experiencia laboral en Desarrollo Backend con Java y Springboot con arquitectura de microservicios, Docker y PostgreSQL, también tengo conocimientos en otros lenguajes y frameworks como C# y .NET Framework.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ángel-cendrero-ojeda-17b43a27b/) 
 
