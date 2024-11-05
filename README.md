@@ -28,10 +28,7 @@ Videojuego para android desarrollado en **Android Studio** creado como trabajo d
 * Almacenamiento local con **SQLite** mediante **Room Persistence Library**
 * Diseño de interfaces de usuario en XML y sistema de **navegacion entre interfaces**
 
-<img src="images/tfg/menu_principal.jfif" alt="Menú Principal" width="300">
-<img src="images/tfg/aldea.jfif" alt="Aldea" width="300">
-<img src="images/tfg/senado.jfif" alt="Senado" width="300">
-<img src="images/tfg/partidas.jfif" alt="Partidas" width="300">
+<img src="images/tfg/menu_principal.jfif" alt="Menú Principal" width="300"> <img src="images/tfg/aldea.jfif" alt="Aldea" width="300"> <img src="images/tfg/senado.jfif" alt="Senado" width="300"> <img src="images/tfg/partidas.jfif" alt="Partidas" width="300">
 
 ## [Only4](https://github.com/AngelCen14/Only4)
 Videojuego 3D de miedo desarrollado con el motor **Godot 4**, creado como proyecto para la asignatura de Programación multimedia y dispositivos móviles de 2º de DAM.
