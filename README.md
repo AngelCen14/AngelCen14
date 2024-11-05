@@ -28,12 +28,22 @@ Videojuego para android desarrollado en **Android Studio** creado como trabajo d
 * Almacenamiento local con **SQLite** mediante **Room Persistence Library**
 * Diseño de interfaces de usuario en XML y sistema de **navegacion entre interfaces**
 
+<img src="images/tfg/menu_principal.jfif" alt="Menú Principal" width="300">
+<img src="images/tfg/aldea.jfif" alt="Aldea" width="300">
+<img src="images/tfg/senado.jfif" alt="Senado" width="300">
+<img src="images/tfg/partidas.jfif" alt="Partidas" width="300">
+
 ## [Only4](https://github.com/AngelCen14/Only4)
 Videojuego 3D de miedo desarrollado con el motor **Godot 4**, creado como proyecto para la asignatura de Programación multimedia y dispositivos móviles de 2º de DAM.
 
 * Programado en **GDScript** (Lenguaje propio de Godot similar a Python)
 * Sistema de **inteligencia artificial enemiga**, usando las herramientas proporcinadas por el motor
 * Uso de **efectos de postprocesado**, **shaders** y distintas técnicas de optimizacion para un buen acabado visual y un buen rendimiento técnico
+
+<img src="images/only4/menu_principal.png" alt="Menú Principal" width="720">
+<img src="images/only4/ajustes.png" alt="Ajustes" width="720">
+<img src="images/only4/gameplay1.png" alt="Gameplay" width="720">
+<img src="images/only4/gameplay2.png" alt="Gameplay" width="720">
 
 [Todos mis proyectos](https://github.com/AngelCen14?tab=repositories)
 ---
