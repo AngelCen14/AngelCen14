@@ -13,7 +13,7 @@ Tengo experiencia laboral en Desarrollo Backend con Java y Springboot con arquit
 
 ---
 # Proyectos destacados
-## [TFG](https://github.com/JohnWormwood/TFG)
+## [TFG](https://github.com/JohnWormwood/TFG) 🎮📱
 
 Videojuego para android desarrollado en **Android Studio** creado como trabajo de fin de grado de la FP Superior de Desarrollo de Apliaciones Multiplataforma, consiste en la gestión de una aldea y sus diferentes recursos, cuenta con sistema multijugador online de ataques entre usuarios al estilo del videojuego "Clash of Clans". Desarrollado en colaboración con [Juan Ajenjo](https://github.com/JohnWormwood).
 
@@ -30,7 +30,7 @@ Videojuego para android desarrollado en **Android Studio** creado como trabajo d
 
 <img src="images/tfg/menu_principal.jfif" alt="Menú Principal" width="300"> <img src="images/tfg/aldea.jfif" alt="Aldea" width="300"> <img src="images/tfg/senado.jfif" alt="Senado" width="300"> <img src="images/tfg/partidas.jfif" alt="Partidas" width="300">
 
-## [Only4](https://github.com/AngelCen14/Only4)
+## [Only4](https://github.com/AngelCen14/Only4) 🎮
 Videojuego 3D de miedo desarrollado con el motor **Godot 4**, creado como proyecto para la asignatura de Programación multimedia y dispositivos móviles de 2º de DAM.
 
 * Programado en **GDScript** (Lenguaje propio de Godot similar a Python)
