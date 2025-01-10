@@ -1,9 +1,9 @@
 # Hola, soy Ángel 👋
 
 # 💫 Sobre mi:
-Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, soy una persona con ganas de aprender, ganas de trabajar y me gusta trabajar en equipo. Mi objetivo es aportar valor y crecer profesionalmente, siempre buscando mejorar y actualizar mis conocimientos para estar al día con las últimas tendencias tecnológicas. 
+Soy una persona con ganas de aprender, ganas de trabajar y me gusta trabajar en equipo. Mi objetivo es aportar valor y crecer profesionalmente, siempre buscando mejorar y actualizar mis conocimientos para estar al día con las últimas tendencias tecnológicas. 
 
-Tengo experiencia laboral en Desarrollo Backend con Java y Springboot con arquitectura de microservicios, Docker y PostgreSQL, también tengo conocimientos en otros lenguajes y frameworks como C# y .NET Framework y en los motores de videojuegos Unity y Godot.
+Tengo experiencia en Desarrollo Backend con Java y Springboot con arquitectura de microservicios, Docker y PostgreSQL, también tengo conocimientos en otros lenguajes y frameworks como C# y .NET Framework y en los motores de videojuegos Unity y Godot.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ángel-cendrero-ojeda-17b43a27b/) 
 
